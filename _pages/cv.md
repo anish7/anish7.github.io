@@ -13,7 +13,7 @@ Education
 ======
 * B.E. in Computer Engineering, Sardar Patel Institute of Technology, Mumbai University 2018
 * M.B.A , Indian Institute of Management Indore, 2021 (expected)
-# * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<!--- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) --->
 
 Work experience
 ======
@@ -21,7 +21,7 @@ Work experience
   * Bridgestone India
   * Output: Marketing and Business Plan for entry in Car Decor segment
   * Work undertaken: Competitor analysis, Retailer surveys, Custmer surveys, Primary research, Supplier negotiation and onboarding
-  #* Supervisor: Professor Git
+  <!---* Supervisor: Professor Git --->
 
   
 Skills
@@ -53,19 +53,23 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+<!---
 # Talks
 # ======
  # <ul>{% for post in site.talks %}
  #   {% include archive-single-talk-cv.html %}
  # {% endfor %}</ul>
-  
+  --->
+  <!---
 # Teaching
 # ======
  # <ul>{% for post in site.teaching %}
  #   {% include archive-single-cv.html %}
  # {% endfor %}</ul>
-  
+  --->
+  <!---
 # Service and leadership
 # ======
 # * Currently signed in to 43 different slack teams
+--->
