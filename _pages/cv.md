@@ -13,7 +13,7 @@ Education
 ======
 * B.E. in Computer Engineering, Sardar Patel Institute of Technology, Mumbai University 2018
 * M.B.A , Indian Institute of Management Indore, 2021 (expected)
-#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
 
 Work experience
 ======
