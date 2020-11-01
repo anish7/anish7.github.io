@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.E. in Computer Engineering, Sardar Patel Institute of Technology, Mumbai University 2018
 * M.B.A , Indian Institute of Management Indore, 2021 (expected)
+* B.E. in Computer Engineering, Sardar Patel Institute of Technology, Mumbai University 2018
 <!--- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) --->
 
 Work experience
 ======
-* Summer 20202: Retail Marketing Intern
-  * Bridgestone India
-  * Output: Marketing and Business Plan for entry in Car Decor segment
-  * Work undertaken: Competitor analysis, Retailer surveys, Custmer surveys, Primary research, Supplier negotiation and onboarding
+* Summer 2020: Retail Marketing Intern, Bridgestone India
+  * Marketing and Business Plan for entry in Car Decor segment
+  * Competitor analysis, Retailer surveys, Custmer surveys, Primary research, Supplier negotiation and onboarding
   <!---* Supervisor: Professor Git --->
 
   
@@ -48,11 +47,11 @@ Technical Skills
   * MS Powerpoint, MS Excel
   * SPSS
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+<!---Publications--->
+<!---======--->
+  <!---<ul>{% for post in site.publications %}--->
+    <!---{% include archive-single-cv.html %}--->
+  <!---{% endfor %}</ul>--->
 
 
 <!---# Talks --->
